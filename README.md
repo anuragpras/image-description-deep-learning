@@ -23,4 +23,9 @@
 ### Testing After Training:
 ### ![ezgif-2-8685cca2ae](https://github.com/anuragpras/image-description-deep-learning/assets/123822254/37a3a893-04e9-4475-b895-5e475ab5550d)
 ### The Impact of Increasing epochs: Before & After: 
+### ![ezgif-5-0b32ab9c59](https://github.com/anuragpras/image-description-deep-learning/assets/123822254/89bc1896-144f-4468-9b2a-9c4db6d3a86b)
+
  
+
+
+
