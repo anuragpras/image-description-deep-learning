@@ -20,6 +20,7 @@
 
 #### Short Demo: https://www.youtube.com/watch?v=G5UNmKViovw&list=PL-B3lpZNFVZxSBcecbVON4WG-emJgTXNG
 
-### Testing After Training:![ezgif-2-8685cca2ae](https://github.com/anuragpras/image-description-deep-learning/assets/123822254/37a3a893-04e9-4475-b895-5e475ab5550d)
+### Testing After Training:
+### ![ezgif-2-8685cca2ae](https://github.com/anuragpras/image-description-deep-learning/assets/123822254/37a3a893-04e9-4475-b895-5e475ab5550d)
 ### The Impact of Increasing epochs: Before & After: 
  
